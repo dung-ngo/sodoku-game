@@ -1,2 +1,2 @@
-# sodoku-game
+# sodoku
 Created with CodeSandbox

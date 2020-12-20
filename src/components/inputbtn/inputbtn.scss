@@ -1,0 +1,23 @@
+.inputbtn{
+  table {
+    border-spacing: 0;
+    margin-top: 2%;
+    tr {
+      td {
+        width: calc((36px*9)/6);
+        height: 40px;
+        border: 2px solid blue;
+        text-align: center;
+        font: 130% bold;
+        cursor: pointer;
+        position: relative;
+        .total {
+          position: absolute;
+          top: 0;
+          right: 1px;
+          font-size: 11px;
+        }
+      }
+    }
+  }
+}

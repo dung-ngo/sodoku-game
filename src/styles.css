@@ -1,0 +1,14 @@
+/* table, td{
+  border: green solid 3px;
+  width: 500px;
+  height: 50px;
+  border-collapse: collapse;
+}
+.bold{
+  &.right {
+    border-left: red solid 4px;
+  }
+  &.top {
+    border-top: red solid 4px;
+  }
+} */
